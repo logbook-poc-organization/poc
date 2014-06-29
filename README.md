@@ -1,5 +1,10 @@
 Proof Of Concept
 ===
+Offrir un journal de bord collaboratif simple, intuitif, rapide.
+
+Il y a deux aspects fondamentaux:
+* enregistrer une entrée aisement
+* retrouver une liste d'entrées suivant plusieurs critères
 
 Features
 ========
